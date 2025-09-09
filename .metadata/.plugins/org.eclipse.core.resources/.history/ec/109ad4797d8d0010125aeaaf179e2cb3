@@ -1,0 +1,56 @@
+13,1,King,Fields a marble from the Home Zone or Moves one of your own marbles 13 steps forward killing all marbles in their path.,13,SPADE
+1,1,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,SPADE
+0,1,Two,Moves one of your own marbles 2 steps forward.,2,SPADE
+10,1,Ten,Discards a random card from the next player and skips his turn or Moves one of your own marbles 10 steps forward.,10,DIAMOND
+15,12,MarbleSaver,"Selects one of your marbles, that is on track / base, to send to a random empty safe zone cell.",,
+1,2,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,CLUB
+12,2,Queen,Discards a random card from a random player and skips his turn or Moves one of your own marbles 12 steps forward.,12,SPADE
+0,12,Two,Moves one of your own marbles 2 steps forward.,2,SPADE
+0,1,Eight,Moves one of your own marbles 8 steps forward.,8,HEART
+13,1,King,Fields a marble from the Home Zone or Moves one of your own marbles 13 steps forward killing all marbles in their path.,13,SPADE
+0,1,Nine,Moves one of your own marbles 9 steps forward.,9,DIAMOND
+13,1,King,Fields a marble from the Home Zone or Moves one of your own marbles 13 steps forward killing all marbles in their path.,13,CLUB
+0,12,Two,Moves one of your own marbles 2 steps forward.,2,SPADE
+7,1,Seven,Moves two marbles a total of 7 steps forward or one of your own marbles 7 steps forward.,7,SPADE
+5,1,Five,Moves any marble 5 steps forward.,5,DIAMOND
+13,1,King,Fields a marble from the Home Zone or Moves one of your own marbles 13 steps forward killing all marbles in their path.,13,SPADE
+10,1,Ten,Discards a random card from the next player and skips his turn or Moves one of your own marbles 10 steps forward.,10,DIAMOND
+1,2,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,HEART
+0,1,Two,Moves one of your own marbles 2 steps forward.,2,SPADE
+10,1,Ten,Discards a random card from the next player and skips his turn or Moves one of your own marbles 10 steps forward.,10,SPADE
+0,8,Three,Moves one of your own marbles 3 steps forward.,3,SPADE
+13,1,King,Fields a marble from the Home Zone or Moves one of your own marbles 13 steps forward killing all marbles in their path.,13,CLUB
+7,1,Seven,Moves two marbles a total of 7 steps forward or one of your own marbles 7 steps forward.,7,DIAMOND
+4,1,Four,Moves one of your own marbles 4 steps backward.,4,SPADE
+1,1,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,SPADE
+0,12,Eight,Moves one of your own marbles 8 steps forward.,8,SPADE
+0,1,Two,Moves one of your own marbles 2 steps forward.,2,SPADE
+4,1,Four,Moves one of your own marbles 4 steps backward.,4,DIAMOND
+11,2,Jack,Swaps your own marble with another or Moves one of your own marbles 11 steps forward.,11,CLUB
+0,3,Three,Moves one of your own marbles 3 steps forward.,3,SPADE
+1,1,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,HEART
+0,8,Three,Moves one of your own marbles 3 steps forward.,3,SPADE
+11,2,Jack,Swaps your own marble with another or Moves one of your own marbles 11 steps forward.,11,DIAMOND
+5,2,Five,Moves any marble 5 steps forward.,5,CLUB
+1,1,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,HEART
+15,1,MarbleSaver,"Selects one of your marbles, that is on track / base, to send to a random empty safe zone cell.",,
+10,2,Ten,Discards a random card from the next player and skips his turn or Moves one of your own marbles 10 steps forward.,10,DIAMOND
+0,8,Three,Moves one of your own marbles 3 steps forward.,3,SPADE
+14,4,MarbleBurner,"Selects an opponent marble, that is on track, to send home.",,
+1,1,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,HEART
+0,12,Three,Moves one of your own marbles 3 steps forward.,3,SPADE
+1,1,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,HEART
+15,2,MarbleSaver,"Selects one of your marbles, that is on track / base, to send to a random empty safe zone cell.",,
+0,8,Three,Moves one of your own marbles 3 steps forward.,3,SPADE
+1,1,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,HEART
+7,1,Seven,Moves two marbles a total of 7 steps forward or one of your own marbles 7 steps forward.,7,SPADE
+1,1,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,HEART
+0,1,Three,Moves one of your own marbles 3 steps forward.,3,SPADE
+15,2,MarbleSaver,"Selects one of your marbles, that is on track / base, to send to a random empty safe zone cell.",,
+11,1,Jack,Swaps your own marble with another or Moves one of your own marbles 11 steps forward.,11,DIAMOND
+1,1,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,HEART
+0,1,Six,Moves one of your own marbles 6 steps forward.,6,CLUB
+1,1,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,HEART
+0,1,Three,Moves one of your own marbles 3 steps forward.,3,SPADE
+1,1,Ace,Fields a marble from the Home Zone or Moves one of your own marbles 1 step forward.,1,HEART
+0,1,Two,Moves one of your own marbles 2 steps forward.,2,SPADE
